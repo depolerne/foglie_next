@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from \"@emotion/styled\";\nexport const Text = styled.span`\n  font-family: Roboto;\n  font-style: normal;\n  font-weight: 500;\n  font-size: 14px;\n  line-height: 16px;\n  letter-spacing: 1.25px;\n`;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,19 @@
+{
+  "allLanguages": ["az", "en", "ru"],
+  "defaultLanguage": "az",
+  "currentPagesDir": "pages_",
+  "finalPagesDir": "pages",
+  "localesPath": "locales",
+  "pages": {
+    "*": ["common", "footer", "header"],
+    "/": ["home", "about", "portfolio", "blog"],
+    "/portfolio": ["portfolio"],
+    "/project/[id]": ["project"],
+    "/pricing": ["pricing"],
+    "/about-team": ["team"],
+    "/about-company": ["about"],
+    "/contact": ["contact"],
+    "/blog": ["blog"],
+    "/post/[id]": ["post"]
+  }
+}

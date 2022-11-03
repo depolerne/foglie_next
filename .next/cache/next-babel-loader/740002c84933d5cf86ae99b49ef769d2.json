@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from \"@emotion/styled\";\nexport const Container = styled.div`\n  max-width: 1160px;\n  margin: 0 auto;\n  padding: 0 16px;\n  width: 100%;\n`;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function parseNumber(value, defaultValue = 0) {\n  if (!value) {\n    return defaultValue;\n  }\n\n  const val = parseInt(value.toString());\n  return isNaN(val) ? defaultValue : val;\n}\nexport const isDev = false;\nexport const isProd = !isDev;","map":null,"metadata":{},"sourceType":"module"}

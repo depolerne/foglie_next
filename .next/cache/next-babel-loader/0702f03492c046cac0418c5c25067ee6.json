@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from \"@emotion/styled\";\nexport const BackgroundImage = styled.picture`\n  position: absolute;\n  z-index: -1;\n  width: 100%;\n  height: 500px;\n\n  source,\n  img {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n  }\n`;","map":null,"metadata":{},"sourceType":"module"}
